@@ -1,1 +1,34 @@
+# Customer Churn Prediction using ANN (Deep Learning)
+
+## Overview
+
+This project implements an **Artificial Neural Network (ANN)** to predict customer churn in a business setting. The model is trained using deep learning techniques to classify whether a customer will leave or stay based on various features.
+
+## Dataset
+
+The dataset consists of customer-related attributes, including demographic and transactional details. It is preprocessed and fed into the ANN model for training and evaluation.
+
+## Technologies Used
+
+- Python
+- TensorFlow/Keras
+- Pandas
+- NumPy
+
+- Scikit-learn
+- Matplotlib/Seaborn (for visualization)
+- Jupyter Notebook
+
+## Installation & Setup
+
+### Prerequisites
+
+Ensure you have Python installed. Recommended version: **Python 3.7+**
+
+### Install Required Libraries
+
+Run the following command to install necessary dependencies:
+
+```bash
+pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
 
